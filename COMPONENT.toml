@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-libav"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-libav component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
